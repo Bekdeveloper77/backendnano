@@ -190,6 +190,6 @@ CKEDITOR_CONFIGS = {
 }
 CKEDITOR_UPLOAD_PATH = "uploads/"
 CKEDITOR_BASEPATH = "/static/ckeditor/ckeditor/"
- JAZZMIN_SETTINGS = {
+JAZZMIN_SETTINGS = {
      "site_title": "Library Admin",
  }
